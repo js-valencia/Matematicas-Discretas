@@ -24,16 +24,15 @@
 ---
 
 
-## Unidad 1: Logica
+## Unidad 1: Lógica Matemática
 
-* [Unidad 1: Logica](https://github.com/js-valencia/Matematicas-Discretas/blob/main/Unidad%201/unidad1.md)
+* [Unidad 1: Lógica](https://github.com/js-valencia/Matematicas-Discretas/blob/main/unidad1.md)
 
-## Unidad 2: Paradigmas de Programación 🧩
+## Unidad 2: 
 
 
 
-## Unidad 3: Lenguajes y Compiladores ⚙️
-
+## Unidad 3: 
 
 
 ## Uso de IA Comparativa 🤖

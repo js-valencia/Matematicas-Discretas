@@ -26,7 +26,7 @@
 
 ## Unidad 1: Logica
 
-* [Unidad 1: Logica]()
+* [Unidad 1: Logica](https://github.com/js-valencia/Matematicas-Discretas/blob/main/Unidad%201/unidad1.md)
 
 ## Unidad 2: Paradigmas de Programación 🧩
 

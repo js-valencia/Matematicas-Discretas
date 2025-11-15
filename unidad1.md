@@ -4,9 +4,126 @@
 
 ## 📚 Contenidos:
 
-Dentro de la Unidad 1 en la asignatura de **Matemáticas Discretas**, hemos desarrollado tres parametros de Actividades, las cuales estan divididas en:
+
 
 ---
+
+## 1. ¿Qué es la Lógica?
+La lógica es una ciencia formal que estudia los principios y métodos que permiten distinguir cuándo un razonamiento es válido y correcto.  
+Proviene del griego "logikḗ", relacionado con “razón”, “pensamiento” o “argumento”.  
+Su objetivo es analizar cómo se construyen argumentos correctos y evitar errores de razonamiento.
+
+## 2. ¿Qué es la Lógica Matemática?
+La lógica matemática es la disciplina que estudia los métodos para razonar correctamente usando símbolos y reglas.  
+Permite:
+- Determinar si un argumento es válido.
+- Demostrar teoremas matemáticos.
+- Verificar la corrección de programas y algoritmos.
+- Analizar conclusiones en ciencias físicas, naturales, sociales.
+- Resolver problemas de forma ordenada en la vida cotidiana.
+
+## 3. Proposiciones Lógicas
+Una proposición lógica es un enunciado que puede ser **verdadero (1)** o **falso (0)**, pero no ambos a la vez.  
+Ejemplos:
+- "El sol es una estrella." → Verdadero  
+- "2 + 2 = 5." → Falso  
+
+Las proposiciones se clasifican en:
+- **Simples**: no dependen de otras proposiciones.  
+- **Compuestas**: se forman usando conectores lógicos.
+
+## 4. Conectores Lógicos
+Los conectores permiten unir proposiciones para formar expresiones más complejas.
+
+| Conector | Símbolo | Significado |
+|---------|---------|-------------|
+| Negación | ¬p | “No p” |
+| Conjunción | p ^ q | “p y q” |
+| Disyunción | p v q | “p o q” |
+| Condicional | p → q | “Si p entonces q” |
+| Bicondicional | p ↔ q | “p si y solo si q” |
+
+Ejemplo de proposición compuesta:  
+**p v (q ^ ¬r)**
+
+## 5. Tablas de Verdad
+Una tabla de verdad muestra todos los posibles valores de verdad de una proposición.  
+Sirve para:
+- Verificar si una expresión es siempre verdadera (tautología),
+- Siempre falsa (contradicción),
+- O depende de sus variables (contingencia).
+
+Las tablas permiten analizar cómo se comporta cada conector.
+
+## 6. Inferencia
+La inferencia es el proceso de obtener una conclusión a partir de una o más premisas.  
+Es fundamental en matemáticas, ciencias y lógica formal.
+
+Ejemplo:
+Premisa: “Si estudias, apruebas.”  
+Premisa: “Estudias.”  
+Conclusión: “Apruebas.”
+
+## 7. Reglas de Inferencia
+Las reglas permiten validar si una conclusión se obtiene correctamente de las premisas.  
+Las principales son:
+
+- **Modus Ponens** (MP):  
+  Si p → q y p es verdadero, entonces q es verdadero.
+
+- **Modus Tollens** (MT):  
+  Si p → q y ¬q, entonces ¬p.
+
+- **Silogismo Disyuntivo**:  
+  p v q, ¬p → entonces q.
+
+- **Silogismo Hipotético**:  
+  Si p → q, y q → r, entonces p → r.
+
+Estas reglas se usan para demostraciones matemáticas y validación de algoritmos.
+
+## 8. Aplicaciones Tecnológicas
+La lógica proposicional tiene múltiples usos en computación y electrónica:
+
+- **Contingencias:** se utilizan para construir circuitos de control.
+- **Tautologías/Contradicciones:** permiten verificar la consistencia interna de algoritmos.
+- **Reglas de inferencia:** sirven como pruebas de corrección en programas.
+- **Circuitos lógicos:** utilizan conectores básicos como NOT, AND y OR.
+- El análisis lógico es esencial en tecnologías como:
+  - Circuitos integrados
+  - Sistemas digitales
+  - Diseño de compuertas (NAND, NOR, XOR)
+
+## 9. Conjuntos Completos de Conectivas
+Un conjunto de conectores es **funcionalmente completo** si permite construir cualquier proposición lógica usando solamente ese conjunto.
+
+Ejemplos:
+- { ^ , ¬ }  
+- { v , ¬ }  
+- También compuertas como NAND o NOR son funcionalmente completas.
+
+Esto permite rediseñar expresiones lógicas usando solo ciertos conectores (importante en electrónica digital).
+
+## 10. Formas Normales
+Las proposiciones pueden transformarse en formatos estándar llamados **formas normales**:
+
+### ✔ Forma Normal Disyuntiva (FND)
+Una expresión escrita como una disyunción (OR) de conjunciones (AND) de literales.  
+Ejemplo:  
+(p ^ ¬q) v (q ^ r)
+
+### ✔ Forma Normal Conjuntiva (FNC)
+Una expresión escrita como una conjunción (AND) de disyunciones (OR).  
+Ejemplo:  
+(p v ¬q) ^ (q v r)
+
+Estas formas se usan en:
+- Diseño de circuitos
+- Álgebra booleana
+- Inteligencia artificial (SAT solvers)
+
+
+
 
 ### 🔬 1. APE (Aprendizaje Práctico Experimental)
 

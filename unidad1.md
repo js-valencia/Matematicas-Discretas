@@ -4,7 +4,16 @@
 
 ## 📚 Contenidos:
 
-
+1) Lógica
+2)  Lógica Matemática
+3)  Proposiciones Lógicas
+4)  Conectores Lógicos
+5)  Tablas de Verdad
+6)  Inferencia
+7)  Reglas de Inferencia
+8)  Aplicaciones Tecnológicas
+9)  Conjuntos Completos de Conectivas
+10)  Formas Normales
 
 ---
 
@@ -122,8 +131,11 @@ Estas formas se usan en:
 - Álgebra booleana
 - Inteligencia artificial (SAT solvers)
 
+----
 
+# Actividades Entregadas
 
+----
 
 ### 🔬 1. APE (Aprendizaje Práctico Experimental)
 

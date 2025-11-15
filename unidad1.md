@@ -4,7 +4,7 @@
 
 ## 📚 Contenidos:
 
-Dentro de la Asignatura de Matemáticas Discretas, hemos desarrollado tres parametros de Actividades, las cuales estan divididas en:
+Dentro de la Unidad 1 en la asignatura de **Matemáticas Discretas**, hemos desarrollado tres parametros de Actividades, las cuales estan divididas en:
 
 ---
 
@@ -14,7 +14,7 @@ Dentro de la Asignatura de Matemáticas Discretas, hemos desarrollado tres param
 
 Dentro de este campo, realizamos una actividad:
 
-** 📄 APE 1: Resolución de Ejercicios sobre Lógica Proposicional, Conectores y Tablas de Verdad**
+**📄 APE 1: Resolución de Ejercicios sobre Lógica Proposicional, Conectores y Tablas de Verdad**
 * 🔗 Enclace: [APE 1](https://github.com/js-valencia/Matematicas-Discretas/blob/main/Actividades_U1/APE/MatematicasDiscretas_APE1.pdf)
 
 ----

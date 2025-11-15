@@ -26,14 +26,21 @@
 
 ## Unidad 1: Lógica Matemática
 
-* [Unidad 1: Lógica](https://github.com/js-valencia/Matematicas-Discretas/blob/main/unidad1.md)
+* [Unidad 1: Lógica Matemática](https://github.com/js-valencia/Matematicas-Discretas/blob/main/unidad1.md)
 
-## Unidad 2: 
+----
 
+## Unidad 2: Álgebra de Boole
 
+* Unidad 2: Álgebra de Boole
 
-## Unidad 3: 
+----
 
+## Unidad 3:  Grafos y Árboles
+
+* Unidad 3: Grafos y Árboles
+
+----
 
 ## Uso de IA Comparativa 🤖
 
